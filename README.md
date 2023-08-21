@@ -4,7 +4,7 @@
   <img src="cat-black-face.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome Books: A complete website with navigation</b></h3>
+  <h3><b>Awesome Books: With ES6 Modules</b></h3>
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books: A complete website with navigation <a name="about-project"></a>
+# 📖 Awesome Books: With ES6 Modules<a name="about-project"></a>
 
-Awesome Books: A complete website with navigation is an exercise in which I will take the Awesome books application and convert it into a fully functional website. I will refactor the project to add three new sections on top of the two sections, i have already completed: Books list (done), Add book form (done), a new Contact info section, a Navigation bar, and a Footer. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
+Awesome Books: With ES6 Modules. In this project, i will restructure my Awesome books app code. The goal is to make it more organized by using modules. I will also practice the ES6 syntax that i have learned.. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,7 +70,7 @@ Awesome Books: A complete website with navigation is an exercise in which I will
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-### URL: https://maximoortelli.github.io/Awesome-Book/ 
+### URL: https://maximoortelli.github.io/Awesome-BookES6/ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ To get a local copy up and running, follow these steps.
 4. Open Terminal.
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you of the reposotory.<br>
-``` $ git clone https://github.com/maximoortelli/Awesome-Book.git ```
+``` $ git clone https://github.com/maximoortelli/Awesome-BookES6.git ```
 
 ### Install
 
@@ -124,11 +124,6 @@ The project can be deployed to a hosting service.
 
 - GitHub: [@maximoortelli](https://github.com/maximoortelli)
 - Linkedin: [@maximoortelli](https://www.linkedin.com/in/maximo-ortelli-rueda-265228203/)
-
-👤 **Daniel Felipe Cañón Sánchez.**
-
-- GitHub: [@Daniel Felipe Cañón Sánchez](https://github.com/danielf-canon)
-- Linkedin: [@DanielCañón] (https://www.linkedin.com/in/daniel-felipe-canon-sanchez/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
