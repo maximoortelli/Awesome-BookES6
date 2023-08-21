@@ -70,7 +70,7 @@ Awesome Books: With ES6 Modules. In this project, i will restructure my Awesome 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-### URL: https://maximoortelli.github.io/Awesome-Book/ 
+### URL: https://maximoortelli.github.io/Awesome-BookES6/ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
