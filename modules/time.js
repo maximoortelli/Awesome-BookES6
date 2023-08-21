@@ -1,4 +1,4 @@
-import { DateTime } from './config.js';
+import { DateTime } from './luxon.js';
 
 const myTime = (element) => {
   setInterval(() => {
